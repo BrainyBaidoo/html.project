@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+<meta charset="UTF-8">
+<title>okro stew recipe</title>
+</head>
+
+<body>
+<h1>Brainy's easiest format for Okro Stew</h1><hr/>
+<img src="images/okro stew.jpeg"/ alt="picture of an okro stew in a white ceramic bowl"><hr/>
+
+
+<h2><p>Ingredients:</p></h2>
+<ol>
+<li>4 tbsp: Palm oil</li><br/>
+<li>1/2 Onions, raw</li><br/>
+<li>4 Red scotch pepper</li><br/>
+<li>20 Freshly picked ademe</li><br/>
+<li>2 Maggi shrimp</li><br/>
+<li>2 Tomatoes</li><br/>
+<li>1 Smoked chicken</li><br/>
+<li>2 tbsp Garlic</li><br/>
+<li>1L Water</li><br/>
+</ol>
+
+<h3><p>Click on the links bellow for the procedures</p>
+    <a href="about.html">Procedure</a><br/>
+    <a href="contact.html">Contact</a><hr/>
+    <h4>Follow me on:</h4>
+    <a href="facebook">@facebook</a><br/>
+    <a href="twitter">@twitter</a>
+
+
+</body>
+
+
+
+</html>
